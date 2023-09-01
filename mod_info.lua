@@ -1,0 +1,16 @@
+name = "Hover over deposits"
+uid = "hover-over-deposits-01"
+version = 1
+description = "Attempts to enable build mode for extractors or hydrocarbon plants when hovering over a resource deposit"
+author = "Jip"
+icon = "/mods/hover-to-build/icon.png" 
+url = "https://github.com/FAForever/fa"
+selectable = true
+enabled = true
+exclusive = false
+ui_only = true
+requires = {}
+requiresNames = {}
+conflicts = {}
+before = {}
+after = {}
